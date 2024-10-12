@@ -15,6 +15,7 @@ Proportionally
 1/5 = {[e],[],[],[],[]} (First ForcewPowerLightSaberz) [32]
 4/6 = {[e],[e],[e],[e],[],[]} (SecondLast Arch-etective) [64]
 
+oversized t-shirt = 2wcrossovers 2sleeves >= 2elbows and 1wcrossovers >= 2wbiceps  
 
 Quantatiffically
 Y-combinator LucasArts by Bd

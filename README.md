@@ -23,6 +23,11 @@ oversized look t-shirt = 2wcrossovers 2sleeves >= 2elbows and 1wcrossovers >= 2w
 
 xS, xxS, M, L, xL, xxL, xxxL, 0, -0, e + sqrt2 - 1 = PI
 
+BMI BD 55KG 16.5
+ShoulderWitdh: 45~48CM
+
+Calculated Finished: 10:12:2024 5L17AM
+
 Y-combinator LucasArts by Bd
 SW
 

@@ -18,6 +18,7 @@ SW
 
 Salt Y Water
 Hilt Y Iron
+Build Y Craft
 
 :K KeyValue
 :R AZI Rand(AI)ez

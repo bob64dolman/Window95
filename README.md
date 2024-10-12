@@ -11,6 +11,10 @@ Proportionally
 1/1=0.89|0.11 (MagicWandz)
 1/1=0.6|0.4 (MagicalWandz)
 
+******
+1/5 = {[e],[],[],[],[]} (First ForcewPowerLightSaberz) [32]
+4/6 = {[e],[e],[e],[e],[],[]} (SecondLast Arch-etective) [64]
+
 
 Quantatiffically
 Y-combinator LucasArts by Bd

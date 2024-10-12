@@ -16,7 +16,12 @@ Quantatiffically
 1/5 = {[e],[],[],[],[]} (First ForcewPowerLightSaberz) [32]
 4/6 = {[e],[e],[e],[e],[],[]} (SecondLast Arch-etective) [64]
 
-oversized t-shirt = 2wcrossovers 2sleeves >= 2elbows and 1wcrossovers >= 2wbiceps  
+oversized look t-shirt = 2wcrossovers 2sleeves >= 2elbows and 1wcrossovers >= 2wbiceps  
+
+58cm width S (oversized-fit)
+48CM width XXL (non-oversized-fit)
+
+xS, xxS, M, L, xL, xxL, xxxL, 0, -0, e + sqrt2 - 1 = PI
 
 Y-combinator LucasArts by Bd
 SW

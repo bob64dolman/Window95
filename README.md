@@ -8,7 +8,8 @@ Proportionally
 *****
 1/1=0.5|0.5 (Red Apple) [symmythrical]
 1/1=0.45|0.55 (Sawed Shotgun) [A - e a-symmythrical obketc object]
-1/(MagicWand)
+1/1=0.89|0.11 (MagicWandz)
+1/1=0.6|0.4 (MagicalWandz)
 
 
 Quantatiffically

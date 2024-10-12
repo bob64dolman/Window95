@@ -6,8 +6,8 @@ Context
 
 Proportionally
 *****
-1/1=0.5|0.5 (Red Apple) [A - e a-symmythrical obketc object]
-1/1=0.48|52 (Sawed Shotgun) [symmythrical]
+1/1=0.5|0.5 (Red Apple) [symmythrical]
+1/1=0.48|52 (Sawed Shotgun) [A - e a-symmythrical obketc object]
 1/(MagicWand)
 
 

@@ -21,7 +21,7 @@ oversized look t-shirt = 2wcrossovers 2sleeves >= 2elbows and 1wcrossovers >= 2w
 58cm width S (oversized-fit)
 48CM width XXL (non-oversized-fit)
 
-xS, xxS, M, L, xL, xxL, xxxL, 0, -0, e + sqrt2 - 1 = PI
+xS, xxS, M, L, xL, xxL, xxxL, 0, -0, e + sqrt2 - 1 ≈ PI
 
 BMI BD 55KG 16.5
 ShoulderWitdh: 45~48CM
